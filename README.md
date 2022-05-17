@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kabra</h1>
 <h3 align="center">Member of Technical Staff at Salesforce</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabragaurav&label=Profile%20views&color=0e75b6&style=flat" alt="kabragaurav" /> </p>
-
 - 🔭 I’m currently working on **Intelligent Form Reader, Sentiment Analysis, Comprehend Medical**
 
 - 💬 Ask me about **Java, JavaScript**
@@ -24,3 +22,4 @@
 <p><a href="https://www.buymeacoffee.com/gauravkabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gauravkabra" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabragaurav&show_icons=true&locale=en&layout=compact" alt="kabragaurav" /></p>
+
