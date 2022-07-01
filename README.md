@@ -34,12 +34,14 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" height="30" width="40" />
-      <img align="center" src="https://svgshare.com/i/ijV.svg" alt="Eclipse IDE" height="35" width="38" />
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" height="30" width="40" />
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" height="30" width="40" />
-      <img align="center" src="https://svgshare.com/i/ihw.svg" height="30" width="40" />
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" height="30" width="40" /></a>
+      <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijV.svg" alt="Eclipse IDE" height="35" width="38" /></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" height="30" width="40" /></a>
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" height="30" width="40" /></a>
+      <a href="https://slack.com/intl/en-in/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ihw.svg" alt="Slack" height="30" width="40" /></a>
+      <a href="https://quip.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/quip/quip-ar21.svg" alt="Quip" height="45" width="100" /></a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" height="30" width="40" /></a>
+      <a href='https://en.wikipedia.org/wiki/Terminal_(macOS)' target="_blank" rel="noreferrer"><img align="center" src='https://svgshare.com/i/ihx.svg' title='Terminal' height="30" width="40"/></a>
 </div>
 
 <br/>
