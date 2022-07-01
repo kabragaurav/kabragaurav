@@ -13,7 +13,7 @@
 
 <h3 align="center">Profiles</h3>
 <div align="center">
-      <a href="https://linkedin.com/in/gaurav-kabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kabra" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/gaurav-kabra" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="gaurav-kabra" height="30" width="40" /></a>
       <a href="https://www.hackerrank.com/gauravkabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravkabra" height="30" width="40" /></a>
       <a href="https://www.leetcode.com/gauravkabra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravkabra" height="30" width="40" /></a>
       <a href="https://auth.geeksforgeeks.org/user/gauravkabrageek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravkabrageek" height="30" width="40" /></a>
