@@ -19,19 +19,6 @@
 <br/>
 <br/>
 
-
-<h3 align="center">OS</h3>
-<div align="center">
-      <a href="https://www.apple.com/in/macos/monterey/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijU.svg" alt="macOS" height="30" width="40" /></a>
-      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijq.svg" alt="Ubuntu" height="30" width="40" /></a>
-      <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/centos/centos-original.svg" alt="CentOS" height="30" width="40" /></a>
-      <a href="https://www.microsoft.com/en-in/windows" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ije.svg" alt="Windows" height="30" width="40" /></a>
-      <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" alt="Debian" height="30" width="40" /></a>
-</div>
-
-<br/>
-<br/>
-
 <h3 align="center">Tools</h3>
 <div align="center">
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" height="30" width="40" /></a>
@@ -42,6 +29,19 @@
       <a href="https://quip.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/quip/quip-ar21.svg" alt="Quip" height="45" width="100" /></a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" height="30" width="40" /></a>
       <a href='https://en.wikipedia.org/wiki/Terminal_(macOS)' target="_blank" rel="noreferrer"><img align="center" src='https://svgshare.com/i/ihx.svg' title='Terminal' height="30" width="40"/></a>
+</div>
+
+<br/>
+<br/>
+
+
+<h3 align="center">OS</h3>
+<div align="center">
+      <a href="https://www.apple.com/in/macos/monterey/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijU.svg" alt="macOS" height="30" width="40" /></a>
+      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijq.svg" alt="Ubuntu" height="30" width="40" /></a>
+      <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/centos/centos-original.svg" alt="CentOS" height="30" width="40" /></a>
+      <a href="https://www.microsoft.com/en-in/windows" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ije.svg" alt="Windows" height="30" width="40" /></a>
+      <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" alt="Debian" height="30" width="40" /></a>
 </div>
 
 <br/>
