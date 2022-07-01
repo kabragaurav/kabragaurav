@@ -22,10 +22,10 @@
 
 <h3 align="center">OS</h3>
 <div align="center">
-      <img align="center" src="https://svgshare.com/i/ijU.svg" alt="macOS" height="30" width="40" />
-      <img align="center" src="https://svgshare.com/i/ijq.svg" alt="Ubuntu" height="30" width="40" />
+      <a href="https://www.apple.com/in/macos/monterey/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijU.svg" alt="macOS" height="30" width="40" /></a>
+      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ijq.svg" alt="Ubuntu" height="30" width="40" /></a>
       <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/centos/centos-original.svg" alt="CentOS" height="30" width="40" /></a>
-      <img align="center" src="https://svgshare.com/i/ije.svg" alt="Windows" height="30" width="40" />
+      <a href="https://www.microsoft.com/en-in/windows" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ije.svg" alt="Windows" height="30" width="40" /></a>
       <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/debian/debian-original.svg" alt="Debian" height="30" width="40" /></a>
 </div>
 
@@ -47,9 +47,9 @@
 
 <h3 align="center">Browsers</h3>
 <div align="center">
-      <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chrome/chrome-original.svg" alt="Chrome" height="35" width="40" />
-      <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/safari/safari-original.svg" alt="Safari" height="35" width="40" />
-      <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firefox/firefox-original.svg" alt="Firefox" height="35" width="40" />
-      <img align="center" src="https://svgshare.com/i/ik0.svg" alt="Firefox" height="35" width="40" />
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" alt="Opera" height="35" width="40" />
+      <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chrome/chrome-original.svg" alt="Chrome" height="35" width="40" /></a>
+      <a href="https://www.apple.com/in/safari/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/safari/safari-original.svg" alt="Safari" height="35" width="40" /></a>
+      <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firefox/firefox-original.svg" alt="Firefox" height="35" width="40" /></a>
+      <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer"><img align="center" src="https://svgshare.com/i/ik0.svg" alt="Firefox" height="35" width="40" /></a>
+      <a href="https://www.opera.com/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" alt="Opera" height="35" width="40" /></a>
 </div>
