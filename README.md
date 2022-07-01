@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kabra</h1>
 <h3 align="center">Member of Technical Staff (SDE-II) at <img align="center" src="https://svgshare.com/i/ijr.svg" alt="gaurav-kabra" height="60" width="60" /></h3>
 
-<br/>
-<br/>
-
-
 <h3 align="center">Profiles</h3>
 <div align="center">
       <a href="https://linkedin.com/in/gaurav-kabra" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="gaurav-kabra" height="30" width="40" /></a>
@@ -30,4 +26,17 @@
       <img align="center" src="https://svgshare.com/i/ijU.svg" alt="macOS" height="30" width="40" />
       <img align="center" src="https://svgshare.com/i/ijq.svg" alt="Linux" height="30" width="40" />
       <img align="center" src="https://svgshare.com/i/ije.svg" alt="Windows" height="30" width="40" />
+</div>
+
+
+<br/>
+<br/>
+
+<h3 align="center">Tools</h3>
+<div align="center">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" height="30" width="40" />
+      <img align="center" src="https://svgshare.com/i/ijV.svg" alt="Eclipse IDE" height="35" width="38" />
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" height="30" width="40" />
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" height="30" width="40" />
+      <img align="center" src="https://svgshare.com/i/ihw.svg" height="30" width="40" />
 </div>
