@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kabra</h1>
-<h3 align="center">Member of Technical Staff (SDE-II) at Salesforce</h3>
-
-- 🔭 I’m currently working on **Intelligent Form Reader, Sentiment Analysis, Comprehend Medical products at Salesforce**
-
-- 💬 Ask me about **Software Development**
-
-- 📫 Want to reach out to me? **gauravkabra.official@gmail.com**
+<h3 align="center">Member of Technical Staff (SDE-II) at <img align="center" src="https://svgshare.com/i/ijr.svg" alt="gaurav-kabra" height="60" width="60" /></h3>
 
 <br/>
 <br/>
