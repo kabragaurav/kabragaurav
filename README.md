@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kabra</h1>
-<h3 align="center">Member of Technical Staff (SDE-II) at <a href="https://www.salesforce.com/in/" target="_blank"><img align="center" src="https://svgshare.com/i/ijr.svg" alt="gaurav-kabra" height="60" width="60" /></a></h3>
+<h3 align="center">Member of Technical Staff (SDE-II) at <a href="https://www.salesforce.com/in/" target="_blank"><img align="center" src="https://svgshare.com/i/ijr.svg" alt="Salesforce" height="60" width="60" /></a></h3>
 
 <h3 align="center">Profiles</h3>
 <div align="center">
