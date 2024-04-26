@@ -30,6 +30,7 @@
       <a href="https://quip.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/quip/quip-ar21.svg" alt="Quip" height="45" width="100" /></a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" height="30" width="40" /></a>
       <a href='https://en.wikipedia.org/wiki/Terminal_(macOS)' target="_blank" rel="noreferrer"><img align="center" src='https://svgshare.com/i/ihx.svg' title='Terminal' height="30" width="40"/></a>
+      <a href='https://bazel.build/' target="_blank" rel="noreferrer"><img align="center" src='https://ibb.co/3mwbdJr' title='Bazel' height="30" width="40"/></a>
 </div>
 
 <br/>
