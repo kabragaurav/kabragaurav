@@ -13,13 +13,21 @@
 
 <h3 align="center">Stats</h3>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabragaurav&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabragaurav&langs_count=8&theme=tokyonight&count_private=true&layout=compact&card_width=280" />
-</a>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/kabragaurav/">
+    <img src="https://github-readme-stats.vercel.app/api?username=kabragaurav&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <a href="https://github.com/kabragaurav/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabragaurav&langs_count=8&theme=tokyonight&count_private=true&layout=compact&card_width=280" />
+    </a>
+    <a href="https://github.com/kabragaurav/">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabragaurav&langs_count=8&theme=tokyonight&count_private=true&layout=compact&card_width=280" />
+    </a>
+  </div>
 </div>
+</div>
+
 <br/>
 <div align="center">
 <!-- taken from https://github.com/byegates and adapted with https://simpleicons.org/?q=tea -->
