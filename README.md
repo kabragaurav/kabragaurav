@@ -28,6 +28,14 @@
 </div>
 </div>
 
+<!-- Taken from https://github.com/arhankundu99/arhankundu99/blob/main/README.md?plain=1 and SEE https://gprm.itsvg.in -->
+<div align="center">
+       <img src="https://github-profile-trophy.vercel.app/?username=kabragaurav&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+<div align="center">
+       <img src="https://github-contributor-stats.vercel.app/api?username=kabragaurav&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
 <br/>
 <div align="center">
 <!-- taken from https://github.com/byegates and adapted with https://simpleicons.org/?q=tea -->
@@ -44,4 +52,8 @@
 ![JUnit5](https://img.shields.io/badge/-JUnit5-192133?style=flat-square&logo=JUnit5&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 
+</div>
+
+<div align="center">
+       <img src="https://visitcount.itsvg.in/api?id=kabragaurav&icon=0&color=0" />
 </div>
