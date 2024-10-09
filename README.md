@@ -1,4 +1,11 @@
 <h1 align="center">Gaurav Kabra</h1>
+
+<div align="center">
+
+[![](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Gaurav+Kabra;Software+Engineer+2;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/kabragaurav)
+
+</div>
+
 <h3 align="center">SDE II at <a href="https://www.salesforce.com/in/" target="_blank"><img align="center" src="https://svgshare.com/i/ijr.svg" alt="Salesforce" height="60" width="60" /></a></h3>
 <h3 align="center">Author of The Alchemy Of JavaScript <a href="https://www.amazon.in/dp/B0C87QB46T" target="_blank"><img align="center" src="https://github.com/kabragaurav/kabragaurav/assets/53303368/7ea165bc-d6e5-4084-bf21-7c66d4ae7c1d" alt="The Alchemy Of JavaScript" height="200" width="160" /></a></h3>
 
@@ -11,7 +18,7 @@
 </div>
 <br/>
 
-<h3 align="center">Stats</h3>
+<h3 align="center">Stats 📊</h3>
 <div align="center">
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/kabragaurav/">
