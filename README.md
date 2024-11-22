@@ -1,8 +1,8 @@
-<h1 align="center">Gaurav Kabra</h1>
+![HEAD](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <div align="center">
 
-[![](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Gaurav+Kabra;Software+Engineer+2;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/kabragaurav)
+[![](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Hi+👋+,+I+am+Gaurav+Kabra;Software+Engineer+2+At+Salesforce;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/kabragaurav)
 
 </div>
 
@@ -63,4 +63,7 @@
 
 <div align="center">
        <img src="https://visitcount.itsvg.in/api?id=kabragaurav&icon=0&color=0" />
+</div>
+<div align="center">
+       <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kabragaurav&radius=16&theme=nightowl&days=30&custom_title=Gaurav%27s%20Last%2030%20Days%20Contribution%20Graph" height="300" alt="activity-graph graph"  /></p>
 </div>
