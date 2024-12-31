@@ -26,10 +26,10 @@
   </a>
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
     <a href="https://github.com/kabragaurav/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabragaurav&langs_count=8&theme=tokyonight&count_private=true&layout=compact&card_width=280" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabragaurav&langs_count=8&theme=tokyonight&count_private=true&card_width=280&layout=pie&hide=Jupyter%20Notebook,PHP,Starlark,TeX" />
     </a>
     <a href="https://github.com/kabragaurav/">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabragaurav&langs_count=8&theme=tokyonight&count_private=true&layout=compact&card_width=280" />
+      <img src="https://streak-stats.demolab.com?user=kabragaurav&theme=dark&hide_border=false&fire=EB5454&card_width=280&layout=compact" />
     </a>
   </div>
 </div>
