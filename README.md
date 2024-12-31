@@ -60,10 +60,9 @@
 ![Vim](https://img.shields.io/badge/-Vim-192133?style=flat-square&logo=vim&logoColor=white)
 
 </div>
-
-<div align="center">
-       <img src="https://visitcount.itsvg.in/api?id=kabragaurav&icon=0&color=0" />
-</div>
 <div align="center">
        <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kabragaurav&radius=16&theme=nightowl&days=30&custom_title=Gaurav%27s%20Last%2030%20Days%20Contribution%20Graph" height="300" alt="activity-graph graph"  /></p>
+</div>
+<div align="center">
+       <p><img align="center" src="https://leetcard.jacoblin.cool/gauravkabra??border=0&radius=8&animation=true&ext=heatmap" height="300" alt="activity-graph graph"  /></p>
 </div>
