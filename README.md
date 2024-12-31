@@ -22,7 +22,7 @@
 <div align="center">
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/kabragaurav/">
-    <img src="https://github-readme-stats.vercel.app/api?username=kabragaurav&count_private=true&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kabragaurav&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" />
   </a>
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
     <a href="https://github.com/kabragaurav/">
@@ -35,7 +35,7 @@
 </div>
 </div>
 
-<!-- Taken from https://github.com/arhankundu99/arhankundu99/blob/main/README.md?plain=1 and SEE https://gprm.itsvg.in -->
+<!-- adapted from https://github.com/arhankundu99/arhankundu99/blob/main/README.md?plain=1 and SEE https://gprm.itsvg.in -->
 <div align="center">
        <img src="https://github-profile-trophy.vercel.app/?username=kabragaurav&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
@@ -45,7 +45,7 @@
 
 <br/>
 <div align="center">
-<!-- taken from https://github.com/byegates and adapted with https://simpleicons.org/?q=tea -->
+<!-- adapted from https://github.com/byegates and adapted with https://simpleicons.org/?q=tea -->
 
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=coffeescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javascript&logoColor=white)
