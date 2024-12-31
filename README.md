@@ -37,7 +37,7 @@
 
 <!-- adapted from https://github.com/arhankundu99/arhankundu99/blob/main/README.md?plain=1 and SEE https://gprm.itsvg.in -->
 <div align="center">
-       <img src="https://github-profile-trophy.vercel.app/?username=kabragaurav&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+       <img src="https://github-profile-trophy.vercel.app/?username=kabragaurav&no-frame=false&no-bg=false&margin-w=4&theme=onedark&title=-Reviews&column=-1" />
 </div>
 <div align="center">
        <img src="https://github-contributor-stats.vercel.app/api?username=kabragaurav&limit=5&theme=dark&combine_all_yearly_contributions=true" />
