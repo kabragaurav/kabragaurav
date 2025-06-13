@@ -1,12 +1,15 @@
 <!-- ![HEAD](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
 
 <div align="center">
+      
+[![GitHub](https://img.shields.io/badge/GitHub-%40kabragaurav-239a3b.svg)](https://github.com/kabragaurav/)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/gaurav-kabra/)
 
 <!-- [![](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Hi+👋+,+I+am+Gaurav+Kabra;Software+Engineer+2+At+Salesforce;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/kabragaurav)
 
 </div> -->
 
-<h3 align="center">SDE II at <a href="https://www.salesforce.com/in/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce" height="60" width="60" /></a></h3>
+<h3 align="center">Senior Software Engineer at <a href="https://www.linkedin.com/company/linkedin/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="LinkedIn" height="100" width="100"/></a> <br/> Ex - <a href="https://www.salesforce.com/in/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" alt="Salesforce" height="60" width="60" /></a></h3>
 <h3 align="center">Author of The Alchemy Of JavaScript <a href="https://www.amazon.in/dp/B0C87QB46T" target="_blank"><img align="center" src="https://github.com/kabragaurav/kabragaurav/assets/53303368/7ea165bc-d6e5-4084-bf21-7c66d4ae7c1d" alt="The Alchemy Of JavaScript" height="200" width="160" /></a></h3>
 
 <h3 align="center">Profiles</h3>
